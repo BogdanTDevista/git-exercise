@@ -8,5 +8,5 @@ public class Main {
         return a + b + c;
     }
 
-    //claudiu
+    //Bogdan
 }
