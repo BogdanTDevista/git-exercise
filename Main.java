@@ -7,4 +7,6 @@ public class Main {
     public static int add3(int a, int b, int c){
         return a + b + c;
     }
+
+    //new comment
 }
